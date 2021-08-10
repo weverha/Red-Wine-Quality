@@ -1,0 +1,8 @@
+List of References Used:
+<ul>
+	<li>https://s3.amazonaws.com/udacity-hosted-downloads/ud651/wineQualityInfo.txt</li>
+	<li>http://www.creativeconnoisseur.com/newsletter/files/497deafe6be1b2efc87df8ac6071e459-162.html#:~:text=The%20typical%20density%20or%20specific,generally%20between%201.080%20and%201.090.&text=After%20fermentation%20is%20complete%2C%20the,less%20than%201.00%2C%20usually%200.996.</li>
+	<li>https://home.binwise.com/blog/is-wine-acidic</li>
+	<li>https://www.amatteroftaste.com/wine/the-truth-about-sulfites-in-wine</li>
+	<li>https://www.winemag.com/2021/05/04/salinity-definition-meaning-wine/</li>
+</ul>
